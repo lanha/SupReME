@@ -26,6 +26,7 @@ The code is implemented in MATLAB:
 -  apexSample.mat            - a sample of an APEX image simulated to the Sentinel-2 responses
                                 available at (http://www.apex-esa.org/content/free-data-cubes)
 -  ms_fusion_apex.m          - a demo script that executes SupReME
+-  ./functions               - all necessary functions
 -  LICENSE                   - GPL license of the code
 -  README                    - this file
 

@@ -3,6 +3,7 @@
 %
 clear
 close all
+addpath('./include')
 
 % dimension of the subspace
 p = 7;      %7 just the number of bands with resolution 10
