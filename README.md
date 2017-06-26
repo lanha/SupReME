@@ -1,9 +1,10 @@
 # Super-Resolution of Multispectral Multiresolution Images from a Single Sensor
 
 ## Authors
-[Charis Lanaras](mailto:charis.lanaras@geod.baug.ethz.ch), Jose Bioucas Dias 
-Copyright 2017 
-ETH Zurich, Universidade de Lisboa 
+-[Charis Lanaras](mailto:charis.lanaras@geod.baug.ethz.ch)
+-Jose Bioucas Dias 
+
+Copyright 2017: ETH Zurich, Universidade de Lisboa 
 
 ## Changes
 0.1 First release.
