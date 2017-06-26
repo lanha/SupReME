@@ -25,11 +25,8 @@ This is the authors' implementation of [1].
 The code is implemented in MATLAB:
 -  apexSample.mat            - a sample of an APEX image simulated to the Sentinel-2 responses
                                 available at (http://www.apex-esa.org/content/free-data-cubes)
-
 -  ms_fusion_apex.m          - a demo script that executes SupReME
-
 -  LICENSE                   - GPL license of the code
-
 -  README                    - this file
 
 
