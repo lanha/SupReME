@@ -6,7 +6,7 @@ close all
 addpath('./include')
 
 % dimension of the subspace
-p = 7;      %7 just the number of bands with resolution 10
+p = 7;      % optimal number based on experimentation
 
 % regularization parameter
 lambda = 0.005; reg_type = 'l2_reg';
